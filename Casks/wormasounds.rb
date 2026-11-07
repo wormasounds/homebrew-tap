@@ -1,6 +1,6 @@
 cask "wormasounds" do
-  version "0.1.1"
-  sha256 "d9974a7285921956f149f55141c851213b81ce453ff3eb08ce5e571ccffc36eb"
+  version "0.1.2"
+  sha256 "c2b088cf9fa33fa24eadd2e4d17c2bc64a8e6fb2719f0d852987fb8164a7aa62"
 
   url "https://github.com/wormasounds/WormaSounds-releases/releases/download/v#{version}/WormaSounds-#{version}.dmg",
       verified: "github.com/wormasounds/WormaSounds-releases/"
